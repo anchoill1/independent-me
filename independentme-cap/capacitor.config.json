@@ -1,0 +1,13 @@
+{
+  "appId": "ie.clickeasy.independentme",
+  "appName": "Independent Me",
+  "webDir": "www"
+}
+{
+  "appId": "ie.clickeasy.independentme",
+  "appName": "Independent Me",
+  "webDir": "www",
+  "android": {
+    "webContentsDebuggingEnabled": true
+  }
+}
